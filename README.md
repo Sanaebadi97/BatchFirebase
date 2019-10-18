@@ -28,7 +28,7 @@
     }
     
     
- 4.Add Java8 in android block build.gradle(app)   
+4. Add Java 8 in android block build.gradle(app) 
  
  
  
