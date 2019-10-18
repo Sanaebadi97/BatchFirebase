@@ -1,4 +1,4 @@
-![Screenshot_2019-10-18_19-35-06](https://user-images.githubusercontent.com/26750131/67109931-7507f400-f1de-11e9-8f77-98b1c17f53df.png)  :heart:  ![download](https://user-images.githubusercontent.com/26750131/67109954-82bd7980-f1de-11e9-88e1-c35f423a660b.png)
+![Screenshot_2019-10-18_19-35-06](https://user-images.githubusercontent.com/26750131/67109931-7507f400-f1de-11e9-8f77-98b1c17f53df.png)  :heart:  ![Screenshot_2019-10-18_19-37-34](https://user-images.githubusercontent.com/26750131/67110090-cca65f80-f1de-11e9-9206-86a6ddde078f.png)
 
 
 ## Just Few Steps:
