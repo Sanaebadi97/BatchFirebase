@@ -1,7 +1,8 @@
 # BatchFirebase
 use batch +Firebase  for Push and etc.
 
-Just Few Steps:
+## Just Few Steps:
+
 1.Go to https://batch.com/
 
 2.Create Project on firebase and set Server key + Sender ID
