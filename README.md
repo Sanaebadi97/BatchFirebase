@@ -51,4 +51,4 @@
 
 9.send Push from Push tab
 
-10.enjoy it :)
+10.enjoy it :smiley::kissing_closed_eyes:
