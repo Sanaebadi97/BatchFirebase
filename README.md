@@ -1,5 +1,3 @@
-# BatchFirebase
-use batch +Firebase  for Push and etc.
 
 ## Just Few Steps:
 
