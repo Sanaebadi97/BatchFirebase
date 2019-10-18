@@ -26,13 +26,25 @@
     batchVersion = '1.14.2'
     identifierVersion = '17.0.0'
     }
+    
+    
+ 4.Add Java8 in android block build.gradle(app)   
+ 
+ 
+ 
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    } 
+    
+    
 
-4.add Internet permission in Manifest.xml
+5.add Internet permission in Manifest.xml
 
-5.Create Application Class call App and define in in Manifest.xml
+6.Create Application Class call App and define in in Manifest.xml
 
 
-6.write batch code in onCreate()
+7.write batch code in onCreate()
 
 
     //live is for last release not test but we use it :)
@@ -45,10 +57,10 @@
     // More info in our "Customizing Notifications" documentation
      Batch.Push.setSmallIconResourceId(R.mipmap.ic_launcher);
 
-7.use live key 
+8.use live key 
 
-8.run app and in userbase tab you can see all users ..
+9.run app and in userbase tab you can see all users ..
 
-9.send Push from Push tab
+10.send Push from Push tab
 
-10.enjoy it :smiley::kissing_closed_eyes:
+11.enjoy it :smiley::kissing_closed_eyes:
