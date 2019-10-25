@@ -4,7 +4,7 @@
 
 ## Just Few Steps:
 
-1.Go to Batch (https://batch.com/)
+1.Go to (Batch) [https://batch.com/]
 
 2.Create Project on firebase and set Server key + Sender ID
 
